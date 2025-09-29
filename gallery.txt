@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ShrimproomNoviSad</title>
+</head>
+
+<body bgcolor=grey>
+
+<img src='fotografije/galerija/1.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/2.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/3.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/4.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/5.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/6.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/7.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/8.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/9.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/10.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/11.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/12.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/13.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/14.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/15.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/16.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/17.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/18.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/19.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/20.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/21.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/22.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/23.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/24.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/25.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/26.jpg' alt='shrimproomlogo'>
+<img src='fotografije/galerija/27.jpg' alt='shrimproomlogo'>
+
+
+</body>
+</html>
